@@ -28,3 +28,10 @@ C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBack
 C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\obj\Debug\net10.0\pr1.pdb
 C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\obj\Debug\net10.0\pr1.genruntimeconfig.cache
 C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\obj\Debug\net10.0\ref\pr1.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\obj\Debug\net10.0\pr1.csproj.AssemblyReference.cache
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\obj\Debug\net10.0\pr1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr1\obj\Debug\net10.0\pr1.csproj.Up2Date

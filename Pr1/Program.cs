@@ -5,8 +5,18 @@ var builder = WebApplication.CreateBuilder();
 
 builder.Services.AddSingleton<TaskStorage>();
 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.MapGet("/", () => "Главная страница");
 
 app.MapGet("/api/tasks", async (TaskStorage storage) =>
 {
@@ -68,7 +78,7 @@ app.MapDelete("/api/tasks/{id:int}", async (int id, TaskStorage storage) =>
 app.MapGet("/api/tasks/completed", async (TaskStorage storage) =>
 {
     var tasks = await storage.LoadTasksAsync();
-    var completedTasks = tasks.Where(t => t.IsCompleted = true).ToList();
+    var completedTasks = tasks.Where(t => t.IsCompleted == true).ToList();
     return Results.Ok(completedTasks);
 });
 
