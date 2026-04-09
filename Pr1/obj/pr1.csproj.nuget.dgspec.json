@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\minapi.csproj": {}
+    "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\pr1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\minapi.csproj": {
+    "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\pr1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\minapi.csproj",
-        "projectName": "minapi",
-        "projectPath": "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\minapi.csproj",
+        "projectUniqueName": "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\pr1.csproj",
+        "projectName": "pr1",
+        "projectPath": "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\pr1.csproj",
         "packagesPath": "C:\\Users\\lobin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr1\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,7 +1,7 @@
 using System.Text.Json;
-using MinApi.Models;
+using Pr1.Models;
 
-namespace MinApi.Services;
+namespace Pr1.Services;
 
 public class TaskStorage
 {

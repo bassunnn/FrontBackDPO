@@ -1,4 +1,4 @@
-namespace MinApi.Models;
+namespace Pr1.Models;
 
 public class TaskModel
 {
