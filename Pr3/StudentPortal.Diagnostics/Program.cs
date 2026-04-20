@@ -55,6 +55,15 @@ app.Map("/tools", appBuilder =>
     });
 });
 
+app.Map("/secure", appBuilder =>
+{
+    appBuilder.UseToken("123");
+
+    appBuilder.Run(async (context) =>
+    {
+        await context.Response.WriteAsync("custom middleware");
+    });
+});
 
 
 app.Run(async (context) => {
