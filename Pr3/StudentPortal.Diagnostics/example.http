@@ -1,2 +1,2 @@
-GET ttp://localhost:5169
+GET http://localhost:5169/tools/time
 Content-Type: "text/html"

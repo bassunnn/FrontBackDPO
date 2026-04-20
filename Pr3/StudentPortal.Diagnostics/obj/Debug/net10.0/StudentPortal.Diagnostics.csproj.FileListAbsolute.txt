@@ -27,3 +27,32 @@ C:\Users\Aleksander\Desktop\Репозитории\FrontBackDPO\Pr3\StudentPorta
 C:\Users\Aleksander\Desktop\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.pdb
 C:\Users\Aleksander\Desktop\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.genruntimeconfig.cache
 C:\Users\Aleksander\Desktop\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\ref\StudentPortal.Diagnostics.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\bin\Debug\net10.0\appsettings.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\bin\Debug\net10.0\StudentPortal.Diagnostics.staticwebassets.endpoints.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\bin\Debug\net10.0\StudentPortal.Diagnostics.exe
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\bin\Debug\net10.0\StudentPortal.Diagnostics.deps.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\bin\Debug\net10.0\StudentPortal.Diagnostics.runtimeconfig.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\bin\Debug\net10.0\StudentPortal.Diagnostics.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\bin\Debug\net10.0\StudentPortal.Diagnostics.pdb
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.AssemblyInfoInputs.cache
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.AssemblyInfo.cs
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.sourcelink.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\scopedcss\bundle\StudentPortal.Diagnostics.styles.css
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\refint\StudentPortal.Diagnostics.dll
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.pdb
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\StudentPortal.Diagnostics.genruntimeconfig.cache
+C:\Users\lobin\OneDrive\Рабочий стол\Репозитории\FrontBackDPO\Pr3\StudentPortal.Diagnostics\obj\Debug\net10.0\ref\StudentPortal.Diagnostics.dll
