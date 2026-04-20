@@ -1,7 +1,11 @@
+using Middleware;
+
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 app.MapGet("/", () => "Hello World!");
+
+app.UseMiddleware<ErrorHandlingMiddleware>();
 
 app.Use(async (context, next) => {
     Console.WriteLine($"Начало обработки: {DateTime.Now.ToLongTimeString()}");
