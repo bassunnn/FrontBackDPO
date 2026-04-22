@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Ki95CKCMX/Y=",
+  "dgSpecHash": "9GcykfstKgA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lobin\\OneDrive\\Рабочий стол\\Репозитории\\FrontBackDPO\\Pr3\\StudentPortal.Diagnostics\\StudentPortal.Diagnostics.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Aleksander\\Desktop\\Репозитории\\FrontBackDPO\\Pr3\\StudentPortal.Diagnostics\\StudentPortal.Diagnostics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksander\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Aleksander\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\Aleksander\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.7\\swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "C:\\Users\\Aleksander\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\Aleksander\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\Aleksander\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+  ],
   "logs": []
 }

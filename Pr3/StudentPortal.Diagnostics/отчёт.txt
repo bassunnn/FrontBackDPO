@@ -1,0 +1,48 @@
+ФИО студента: Лобин Александр Ильич
+Группа: ЭФБО-06-24
+Курс: 2
+Практическая работа №3:
+
+Цель: Освоить middleware, ветвление конвейера (Use, UseWhen, MapWhen, Map), работу с IWebHostEnvironment и регистрацию сервисов в ASP.NET Core.
+
+1. Обязательные маршруты:
+   - /tools/time → "Текущее время: HH:MM:SS"
+   - /tools/date → "Дата: ДД.ММ.ГГГГ"
+   - /tools/info → "Информация о сервере StudentPortal.Diagnostics"
+   - /secure/report?token=study2026 → "Secure report"
+   - /secure/admin/report?token=study2026 → "Admin secure report"
+   - /env → Вывод EnvironmentName, ApplicationName, ContentRootPath, WebRootPath
+   - /di/services → Таблица с 20 сервисами (тип, время жизни, реализация)
+
+2. Ошибки (корректно обрабатываются):
+   - /unknown → 404 + сообщение
+   - /secure/report (без token) → 403 + сообщение о неверном токене
+
+3. Порядок middleware в Program.cs:
+   app.UseMiddleware<ErrorHandlingMiddleware>();      // 1. Перехват ошибок
+   app.Use(async (context, next) => {                 // 2. Замер времени
+       Console.WriteLine($"Начало: {DateTime.Now}");
+       await next();
+       Console.WriteLine($"Конец: {DateTime.Now}");
+   });
+   app.UseWhen(..., appBuilder => { ... });           // 3. trace=true (возврат в pipeline)
+   app.MapWhen(..., appBuilder => { ... });           // 4. format=plain (отдельная ветка)
+   app.Map("/tools", ...);                            // 5. Ветка инструментов
+   app.Map("/secure", ...);                           // 6. Защищённая ветка с токеном
+   app.MapGet("/env", ...);                           // 7. Терминальные endpoint'ы
+   app.MapGet("/di/services", ...);
+   app.MapGet("/", ...);
+
+4. Разница UseWhen vs MapWhen:
+   - UseWhen: условие → выполняется ДОПОЛНИТЕЛЬНЫЙ код, затем возврат в основной pipeline (вызов next).
+   - MapWhen: условие → запрос УХОДИТ в отдельную ветку, основной pipeline не продолжается.
+
+5. Почему ErrorHandlingMiddleware первый?
+   Он должен видеть статус-код (403, 404) после выполнения всех middleware. Если поставить его позже, он не сможет добавить сообщение к ответу.
+
+6. Собственные сервисы (зарегистрированы через AddStudentPortalServices):
+   - IDateTimeService → DateTimeService (GetDate, GetTime)
+   - IEnvironmentReportService → EnvironmentReportService (дополнительно)
+
+7. Вывод:
+   Самое важное — порядок middleware критически влияет на результат. Научился ветвить pipeline, проверять токены через кастомный middleware, использовать DI и окружение.
